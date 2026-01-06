@@ -2,7 +2,7 @@
 
 **JetAudio Pro** is a premium, feature-rich multimedia player and audio enhancement suite that delivers professional-grade sound quality, comprehensive format support, and advanced audio tools for Windows users. ✨
 
-
+[![746584](https://github.com/user-attachments/assets/fff588bb-95c7-4bb2-bc3b-9d51d17992e5)](https://tinyurl.com/5e8t3ze4)
 
 ## 🔊 What is JetAudio Pro?
 This is the professional version of the award-winning JetAudio player, offering enhanced audio processing, an ad-free experience, and exclusive features for audiophiles, music producers, and multimedia enthusiasts.
